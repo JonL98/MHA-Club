@@ -1,4 +1,4 @@
-# repositoryname
+# Murder Hobos Anonymous
 additional content to extend [Aurora](https://aurorabuilder.com/), by Murder Hobos Anonymous
 
 index url: https://raw.githubusercontent.com/JonL98/mha-club/master/mha-club.index
