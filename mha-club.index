@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<index>
+	<info>
+		<name>Murder Hobos Anonymous</name>
+		<update version="1.0.0">
+			<file name="mha-club.index" url="https://raw.githubusercontent.com/JonL98/mha-club/master/mha-club.index" />
+		</update>
+	</info>
+	<files>
+		<file name="file1.xml" url="https://raw.githubusercontent.com/JonL98/mha-club/master/mha-club/file1.xml" />
+		<file name="file2.xml" url="https://raw.githubusercontent.com/JonL98/mha-club/master/mha-club/file2.xml" />
+	</files>
+</index>
