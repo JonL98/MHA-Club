@@ -4,7 +4,9 @@
 <name>Chaos Mage Homebrew</name>
 <description>Chaos Mage class for Dungeons &amp; Dragons 5th Edition.</description>
 <author>Homebrew</author>
-<update version="1.0.0"/>
+  <update version="1.0.0">
+    <file name="chaos-mage.xml" url="https://raw.githubusercontent.com/JonL98/MHA-Club/blob/master/user-yourname/chaos-mage.xml"/>
+</update>
 </info>
 <element name="Chaos Mage" type="Class" source="Chaos Mage" id="ID_HB_CHAOS_MAGE_CLASS">
 <description>
